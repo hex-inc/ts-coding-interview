@@ -1,8 +1,8 @@
-# Typescript Web Interview
+# Hex Coding Interview - Typescript
 
 ## Overview
 
-Welcome to the Hex Web Development Interview! During the interview session, you'll use this boilerplate repository to build out a frontend application with your interviewer. Before the session starts, please clone this repository and run `npm install` in the root to install dependencies. You can also add any other dependencies that you think that you may want to use, but there is no need to write any code or do anything else ahead of time to prepare for the session.
+Welcome to the Hex Coding Interview! During the interview session, you'll implment two functions this repository to fix an application. All changes will be made to `src/api/pagination.ts`.
 
 ## Running the app
 
