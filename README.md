@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Hex Coding Interview! During the interview session, you'll implment two functions this repository to fix an application. All changes will be made to `src/api/pagination.ts`.
+Welcome to the Hex Coding Interview! During the interview session, you'll implement two functions this repository to fix an application. All changes will be made to `src/api/pagination.ts`.
 
 ## Running the app
 
